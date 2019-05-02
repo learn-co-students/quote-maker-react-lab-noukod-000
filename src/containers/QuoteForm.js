@@ -32,7 +32,7 @@ class QuoteForm extends Component {
       author: ''
     });
   }
-
+  
   render() {
     return (
       <div className="container">
